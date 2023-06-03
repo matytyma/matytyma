@@ -1,3 +1,3 @@
 # 👋 Welcome, visitor!
 
-**[`🭪`](https://kotlinlang.org)`Kotlin`** is a great programming language
+[`Kotlin`](https://kotl.in "Kotlin 🔥") is a great programming language
